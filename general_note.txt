@@ -4,7 +4,14 @@ Open Play Store
 Stepper Widget
 
 get use
+
+
 https://www.youtube.com/watch?v=8EGTAbUodkM&ab_channel=ProtoCodersPoint
+
+
+play list
+
+https://www.youtube.com/watch?v=SJ3XBxHW-4s&list=PL0kMjh_O0eNdleGLZtd9lIXMioypkqCiJ&index=11&ab_channel=FlorianPr%C3%BCmer
 
 
 Python with Voice Recording
